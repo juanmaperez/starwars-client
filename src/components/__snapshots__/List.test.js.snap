@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<List /> List snapshot matches 1`] = `
+<TabContent
+  className="undefined table"
+  tag="div"
+>
+  <TabPane
+    key="item"
+    tabId="item"
+    tag="div"
+  >
+    <styled.div />
+  </TabPane>
+  <TabPane
+    key="item2"
+    tabId="item2"
+    tag="div"
+  >
+    <styled.div />
+  </TabPane>
+  <_default />
+</TabContent>
+`;

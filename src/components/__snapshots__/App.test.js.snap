@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App/> matches the snapshot 1`] = `
+<div
+  className="App"
+>
+  <Navbar
+    color="light"
+    expand={false}
+    light={true}
+    tag="nav"
+  >
+    <NavbarBrand
+      href="/"
+      tag="a"
+    >
+      Star Wars Client
+    </NavbarBrand>
+  </Navbar>
+  <Container
+    className="pt-5"
+    tag="div"
+  >
+    <div
+      className="test"
+    />
+  </Container>
+</div>
+`;
